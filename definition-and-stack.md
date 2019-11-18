@@ -1,5 +1,5 @@
 # Definition of done
-* Suunnittelu
+* Suunniteltu
 * Ohjelmoitu
 * Testattu ja koodikatselmoitu
 * Integroitu muuhun ohjelmistoon
