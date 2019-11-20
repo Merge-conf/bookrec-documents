@@ -1,9 +1,10 @@
 # Definition of done
-* Suunniteltu
-* Ohjelmoitu
-* Testattu ja koodikatselmoitu
-* Integroitu muuhun ohjelmistoon
-* Viety tuotantoympäristöön
+* Designed
+* Coded
+* Tested
+* Reviewed
+* Integrated
+* Deployed
 
 # Stack
 * React
