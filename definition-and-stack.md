@@ -7,6 +7,12 @@
 * Deployed
 
 # Stack
+
+**Frontend**
 * React
-* Node
-* Mongo
+
+**Backend**
+* Node.js
+
+**Database**
+* MongoDB
