@@ -36,7 +36,13 @@ organisaation jäsenet. Tästä syystä koimme, että erillinen käyttäjä olis
 - Iso osan projektin toiminnalisuudesta jouduttiin uusia
 - Tiimityö alkoi rullaamaan paremmin
 - Legacy koodia jäi githubiin iso kasa. 
-- Taskien jako sujui aika hyvin
+- Taskien jako sujui aika hyvin  
+
+Kolmas sprintti alkoi rajulla todellisuudella. Asiakkaan testatessa aikaansaannostamme selvisi, että iso osa ohjelman toiminnallisuudesta ei toiminutkaan kuten oletimme. Lisäksi UX ei asiakkaalta varsinaisia kehuja saanut. Ensimmäinen toive asiakkaalta olikin, että toteuttaisimme kirjavinkkien näyttämisen taulukkona eikä listana, minkä seurauksena jouduimme kirjoittamaan ison osan frontendistä uudelleen. 
+
+Sprintti meni kuitenkin kaikin puolin paremmin kuin kaksi ensimmäistä. Emme tehneet samaa virhettä kuin toisessa sprintissä, vaan otimme sprinttiin sopivan määrän työtä. Työmäärää myös helpotti se, että iso osa kolmannen sprintin toiminnallisuudesta oli jo pohjustettu toisessa sprintissä. Sopivan työmäärän lisäksi ryhmän tiimityö ja taskien jako alkoi rullaamaan paremmin. Aikaa jäi jopa parantaa ohjelman tyylikkyyttä ja valmistautua loppudemoon. 
+
+Vaikka viimeinen sprintti sujui hyvin, oli siinä kuitenkin myös parantamisen varaa. Ohjelmiston puolella frontendin uudelleenkirjoittamisen jälkeen projektiin jäi paljon turhaa ja käyttämätöntä koodia, jota kukaan ei uskaltanut poistaa. Tiimityöskennellyn puolella taas olisi voinut olla enemmän tiimitapaamisia.  
 
 ### Mitä parannetaan
 - Tehdään töitä yhdessä paikassa
