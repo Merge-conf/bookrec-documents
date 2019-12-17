@@ -26,8 +26,8 @@ organisaation jäsenet. Tästä syystä koimme, että erillinen käyttäjä olis
 
 Toisen sprintin suurin ongelma oli informaatiokatkokset. Kaikki ryhmän jäsenet eivät päässeet 
 ensimmäiseen asiakastapaamiseen, jossa päätettiin ottaa sprinttiin toteutettavaksi toiminnallisuuksia, 
-joista vain yhdellä ryhmän jäsenistä oli kokemusta, ja juuri hän ei päässyt suunnitteluun mukaan 
-sairastumisen vuoksi. Ennen kuin päätimme toteuttaa äänitiedostojen tallennukseen tarvittavan 
+joista vain yhdellä ryhmän jäsenistä oli ennestään kokemusta, ja juuri hän ei päässyt suunnitteluun mukaan 
+sairastumisen vuoksi. Ennen kun päätimme toteuttaa äänitiedostojen tallennukseen tarvittavan 
 file hosting microservicen kuten yksi ryhmän jäsen oli jo aikaisemmin omassa projektissaan tehnyt, 
 aikaa kului hukkaan erilaisten valmiiden ratkaisujen löytämiseen verkosta, mistä suurin osa oli 
 maksullisia.
