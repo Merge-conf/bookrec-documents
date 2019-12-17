@@ -13,3 +13,7 @@ Links
 ## Sprint 3
 * [Backlog for sprint 3](https://trello.com/b/glRNcSnf/sprint-backlog-3)
 * [Burndown chart for sprint 3](https://BurndownForTrello.com/share/53zwct49sx)
+
+---
+
+[Loppuraportti](https://github.com/Merge-conf/bookrec-documents/blob/master/loppuraportti.md)
