@@ -47,7 +47,7 @@ Lopulta erinäiset informaatiokatkokset johtivat siihen, että moni user story j
 osa ryhmästä luuli niiden olevan jo valmiina. Toinen sprintti meni siis koko ryhmän mielestä selvästi 
 heikoiten, kun tarkastellaan projektia kokonaisuudessaan. Kaikista vaikeuksista huolimatta projekti 
 kuitenkin eteni kohtuullista vauhtia ja kolmanteen sprinttiin ei jäänyt ajallisesti paljoakaan korjattavaa 
-toisen sprintin toiminnallisuuksista. Aikataulutuksen oppimista tapahtui.
+toisen sprintin toiminnallisuuksista. Ymmärsimme ryhmänä aikataulutuksen tärkeyden.
 
 ### Sprint 3
 - Osasimme ottaa sopivan määrän töitä
@@ -56,7 +56,7 @@ toisen sprintin toiminnallisuuksista. Aikataulutuksen oppimista tapahtui.
 - Legacy koodia jäi githubiin iso kasa. 
 - Taskien jako sujui aika hyvin  
 
-Kolmas sprintti alkoi rajulla todellisuudella. Asiakkaan testatessa aikaansaannostamme selvisi, että iso osa ohjelman toiminnallisuudesta ei toiminutkaan kuten oletimme. Lisäksi UX ei asiakkaalta varsinaisia kehuja saanut. Ensimmäinen toive asiakkaalta olikin, että toteuttaisimme kirjavinkkien näyttämisen taulukkona eikä listana, minkä seurauksena jouduimme kirjoittamaan ison osan frontendistä uudelleen. 
+Kolmas sprintti alkoi rajulla todellisuudella. Asiakkaan testatessa aikaansaannostamme selvisi, että iso osa ohjelman toiminnallisuudesta ei toiminutkaan kuten oletimme. Lisäksi edellämainittu UX:än tönkköys ei asiakkaalta varsinaisia kehuja saanut. Ensimmäinen toive asiakkaalta olikin, että toteuttaisimme kirjavinkkien näyttämisen taulukkona eikä listana, minkä seurauksena jouduimme kirjoittamaan ison osan frontendistä uudelleen. 
 
 Sprintti meni kuitenkin kaikin puolin paremmin kuin kaksi ensimmäistä. Emme tehneet samaa virhettä kuin toisessa sprintissä, vaan otimme sprinttiin sopivan määrän työtä. Työmäärää myös helpotti se, että iso osa kolmannen sprintin toiminnallisuudesta oli jo pohjustettu toisessa sprintissä. Sopivan työmäärän lisäksi ryhmän tiimityö ja taskien jako alkoi rullaamaan paremmin. Aikaa jäi jopa parantaa ohjelman tyylikkyyttä ja valmistautua loppudemoon. 
 
