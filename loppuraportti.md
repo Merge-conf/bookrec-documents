@@ -1,6 +1,11 @@
 Loppuraportti
 ===
 
+Merge conflictin kolmen viikon mittaiseen miniprojektiin kuului ylä- ja alamäkiä. Tässä raportissa
+käymme läpi projektin elinkaaren läpi sprintti kerrallaan samalla nostaen esiin asioita siitä mikä onnistui
+ja siitä missä jäi parantamisen varaan. Toteutimme projektin fullstack-kurssilta tutuilta teknologioilla.
+Tässä on kokemame.
+
 ### Sprint 1
 
 Ensimmäisessä sprintissä aloittaminen vei aikaa. Osittain se johtui siitä, että aluksi emme tienneet,
