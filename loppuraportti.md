@@ -1,7 +1,7 @@
 Loppuraportti
 ===
 
-Merge conflictin kolmen viikon mittaiseen miniprojektiin kuului ylä- ja alamäkiä. Tässä raportissa käymme läpi projektin elinkaaren läpi sprintti kerrallaan samalla nostaen esiin asioita siitä mikä onnistui ja siitä missä jäi parantamisen varaan. Raportin lopussa käydään läpi projektiin liittyviä tuntemuksia yleisellä tasolla. Toteutimme projektin fullstack-kurssilta tutuilta teknologioilla. Projektin toteuttivat Arttu Janhunen, Gert Adamson, Heikki Pulli, Santtu Lempinen ja Sami. Tässä on kokemame.
+Merge conflictin kolmen viikon mittaiseen miniprojektiin kuului ylä- ja alamäkiä. Tässä raportissa käymme läpi projektin elinkaaren läpi sprintti kerrallaan samalla nostaen esiin asioita siitä mikä onnistui ja siitä missä jäi parantamisen varaan. Raportin lopussa käydään läpi projektiin liittyviä tuntemuksia yleisellä tasolla. Toteutimme projektin fullstack-kurssilta tutuilta teknologioilla. Projektin toteuttivat Arttu Janhunen, Gert Adamson, Heikki Pulli, Santtu Lempinen ja Sami Toiskallio. Tässä on kokemame.
 
 ### Sprint 1
 
